@@ -2,7 +2,7 @@ import { ArrowRight } from "lucide-react"
 
 const projects = [
   {
-    title: "Full Stack Development",
+    title: "Expense Tracker",
     subtitle: "React • Node.js • MongoDB",
     progress: 90,
     lessons: "Java • Python • JavaScript",

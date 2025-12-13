@@ -6,9 +6,9 @@ const skillCategories = [
     title: "Programming Languages",
     icon: Code2,
     skills: [
-      { name: "Java", level: 90 },
-      { name: "Python", level: 85 },
-      { name: "JavaScript", level: 95 },
+      { name: "Java", level: 50 },
+      { name: "Python", level: 65 },
+      { name: "JavaScript", level: 90 },
       { name: "SQL", level: 80 },
     ],
     gradient: "from-pink-400 to-rose-500",
@@ -17,9 +17,9 @@ const skillCategories = [
     title: "Frontend Development",
     icon: Palette,
     skills: [
-      { name: "React", level: 95 },
+      { name: "React", level: 80 },
       { name: "Tailwind CSS", level: 90 },
-      { name: "GSAP", level: 80 },
+      { name: "GSAP", level: 60 },
       { name: "HTML/CSS", level: 95 },
     ],
     gradient: "from-purple-400 to-violet-500",
@@ -28,10 +28,10 @@ const skillCategories = [
     title: "Backend Development",
     icon: Server,
     skills: [
-      { name: "Node.js", level: 90 },
-      { name: "Express", level: 90 },
-      { name: "REST APIs", level: 95 },
-      { name: "GraphQL", level: 75 },
+      { name: "Node.js", level: 75 },
+      { name: "Express", level: 85 },
+      { name: "REST APIs", level: 75 },
+      { name: "GraphQL", level: 55 },
     ],
     gradient: "from-cyan-400 to-teal-500",
   },
@@ -39,10 +39,9 @@ const skillCategories = [
     title: "Databases",
     icon: Database,
     skills: [
-      { name: "MongoDB", level: 90 },
+      { name: "MongoDB", level: 85 },
       { name: "PostgreSQL", level: 85 },
       { name: "MySQL", level: 80 },
-      { name: "Redis", level: 70 },
     ],
     gradient: "from-amber-400 to-orange-500",
   },
@@ -50,9 +49,9 @@ const skillCategories = [
     title: "DevOps & Cloud",
     icon: Container,
     skills: [
-      { name: "Docker", level: 90 },
-      { name: "Kubernetes", level: 80 },
-      { name: "CI/CD", level: 85 },
+      { name: "Docker", level: 65 },
+      { name: "Kubernetes", level: 65 },
+      { name: "CI/CD", level: 75 },
       { name: "AWS", level: 75 },
     ],
     gradient: "from-emerald-400 to-green-500",
@@ -64,7 +63,6 @@ const skillCategories = [
       { name: "Git", level: 95 },
       { name: "GitHub", level: 95 },
       { name: "GitLab", level: 80 },
-      { name: "Bitbucket", level: 75 },
     ],
     gradient: "from-indigo-400 to-blue-500",
   },
@@ -82,7 +80,7 @@ export default function SkillsPage() {
             </div>
             <div>
               <h1 className="text-2xl md:text-3xl font-bold text-gray-800">Technical Skills</h1>
-              <p className="text-gray-600">My expertise and proficiency levels</p>
+              <p className="text-gray-600">These bars do not present my actual knowledge but indeed how confident and how compatible I can implement these skills in an actual project.</p>
             </div>
           </div>
         </div>

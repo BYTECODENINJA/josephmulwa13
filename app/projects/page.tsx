@@ -3,32 +3,32 @@ import { FolderGit2, ExternalLink, Github } from "lucide-react"
 
 const projects = [
   {
-    title: "E-Commerce Platform",
+    title: "Expense Tracker",
     description:
-      "Full-stack e-commerce solution with payment integration, user authentication, inventory management, and real-time order tracking.",
-    tech: ["React", "Node.js", "MongoDB", "Express", "Stripe"],
+      "Full-stack expense tracking application with user authentication,clean and modern UI and real-time updates via WebSockets.",
+    tech: ["React", "Node.js", "MongoDB", "Express"],
     gradient: "from-pink-400 via-rose-400 to-purple-500",
-    github: "https://github.com",
+    github: "https://github.com/BYTECODENINJA/ExpenseTracker",
     live: "https://example.com",
     featured: true,
   },
   {
-    title: "Task Management API",
+    title: "Portfolio Website",
     description:
-      "RESTful API for task management with JWT authentication, role-based access control, and real-time updates via WebSockets.",
-    tech: ["Node.js", "Express", "PostgreSQL", "Docker", "Redis"],
+      "A basic portfolio website built with HTML,CSS and Javascript. It features a clean and modern design, a responsive layout, and a fully-functional contact form, skills showcase and it is responsive.",
+    tech: ["HTML", "CSS", "JavaScript"],
     gradient: "from-purple-400 via-violet-400 to-indigo-500",
-    github: "https://github.com",
-    live: "https://example.com",
+    github: "https://bytecodeninja.github.io/JosephMulwa",
+    live: "https://bytecodeninja.github.io/JosephMulwa/",
     featured: true,
   },
   {
-    title: "Portfolio Dashboard",
+    title: "Productivity app",
     description:
-      "Interactive portfolio dashboard with animated charts, GSAP animations, and fully responsive design across all devices.",
-    tech: ["React", "Tailwind CSS", "GSAP", "JavaScript"],
+      "A productivity app that helps you stay focused and organize your tasks. It features a clean and modern design with features like Calendar, day schedule, journal, Notebook, goal tracker, habits tracker and a pumodoro timer.",
+    tech: ["React", "Tailwind CSS", "Typescript", "Javascript","Python"],
     gradient: "from-cyan-400 via-teal-400 to-emerald-500",
-    github: "https://github.com",
+    github: "https://github.com/BYTECODENINJA/neo-focus",
     live: "https://example.com",
     featured: true,
   },

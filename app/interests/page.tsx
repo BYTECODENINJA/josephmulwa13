@@ -3,7 +3,7 @@ import { Heart, Brain, Cpu, Cloud, Shield, Smartphone, Globe, Database, Rocket, 
 
 const interests = [
   {
-    title: "Artificial Intelligence & ML",
+    title: "Artificial Intelligence & Machine Learning",
     description:
       "Exploring machine learning algorithms, neural networks, and AI-powered applications. Fascinated by how AI is transforming software development.",
     icon: Brain,

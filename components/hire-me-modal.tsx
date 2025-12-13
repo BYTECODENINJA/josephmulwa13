@@ -319,6 +319,7 @@ ${workForm.requiredSkills || "Not specified"}
                       className="w-full px-4 py-3 rounded-xl bg-white/70 dark:bg-white/10 border border-gray-200 dark:border-white/20 focus:outline-none focus:ring-2 focus:ring-purple-400/50 text-gray-800 dark:text-gray-100"
                     >
                       <option value="">Select budget</option>
+                        <option value="$10 - $500">$10 - $500</option>
                       <option value="$500 - $1,000">$500 - $1,000</option>
                       <option value="$1,000 - $5,000">$1,000 - $5,000</option>
                       <option value="$5,000 - $10,000">$5,000 - $10,000</option>
@@ -517,25 +518,6 @@ ${workForm.requiredSkills || "Not specified"}
                       <option value="Hybrid">Hybrid</option>
                     </select>
                   </div>
-                </div>
-
-                <div>
-                  <label className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2 flex items-center gap-2">
-                    <DollarSign className="w-4 h-4 text-gray-500" />
-                    Salary Range (Annual)
-                  </label>
-                  <select
-                    value={workForm.salaryRange}
-                    onChange={(e) => setWorkForm({ ...workForm, salaryRange: e.target.value })}
-                    className="w-full px-4 py-3 rounded-xl bg-white/70 dark:bg-white/10 border border-gray-200 dark:border-white/20 focus:outline-none focus:ring-2 focus:ring-cyan-400/50 text-gray-800 dark:text-gray-100"
-                  >
-                    <option value="">Prefer not to say</option>
-                    <option value="$30,000 - $50,000">$30,000 - $50,000</option>
-                    <option value="$50,000 - $80,000">$50,000 - $80,000</option>
-                    <option value="$80,000 - $120,000">$80,000 - $120,000</option>
-                    <option value="$120,000+">$120,000+</option>
-                    <option value="Negotiable">Negotiable</option>
-                  </select>
                 </div>
 
                 <div>

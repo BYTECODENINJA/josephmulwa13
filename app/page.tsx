@@ -20,8 +20,8 @@ import { Button } from "@/components/ui/button"
 import Link from "next/link"
 
 const stats = [
-  { icon: Briefcase, value: "2+", label: "Years Experience", color: "from-purple-400 to-purple-600" },
-  { icon: FolderGit2, value: "10+", label: "Projects Completed", color: "from-pink-400 to-pink-600" },
+  { icon: Briefcase, value: "2", label: "Years Experience", color: "from-purple-400 to-purple-600" },
+  { icon: FolderGit2, value: "10", label: "Projects Completed", color: "from-pink-400 to-pink-600" },
   { icon: Clock, value: "100%", label: "Client Satisfaction", color: "from-cyan-400 to-cyan-600" },
 ]
 

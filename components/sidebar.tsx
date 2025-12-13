@@ -56,7 +56,7 @@ export function Sidebar() {
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center">
               <Code2 className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-800 dark:text-gray-100">DevPortfolio</span>
+            <span className="text-xl font-bold text-gray-800 dark:text-gray-100">Joseph Mulwa</span>
           </div>
           <ThemeToggle />
         </div>
@@ -89,7 +89,7 @@ export function Sidebar() {
           <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">Connect with me</p>
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com"
+              href="https://github.com/BYTECODENINJA"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-xl bg-white/40 dark:bg-gray-700/50 hover:bg-white/60 dark:hover:bg-gray-600/60 transition-colors"
@@ -97,7 +97,7 @@ export function Sidebar() {
               <Github className="w-5 h-5 text-gray-700 dark:text-gray-200" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/joseph-mulwa808"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-xl bg-white/40 dark:bg-gray-700/50 hover:bg-white/60 dark:hover:bg-gray-600/60 transition-colors"
