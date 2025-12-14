@@ -46,8 +46,8 @@ const codingFocus = [
 export default function AboutPage() {
   const handleDownloadCV = () => {
     const link = document.createElement("a")
-    link.href = "/cv/joseph-mulwa-cv.pdf"
-    link.download = "Joseph-Mulwa-CV.pdf"
+    link.href = "/JOSEPH.pdf"
+    link.download = "JOSEPH.pdf"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)

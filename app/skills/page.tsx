@@ -73,14 +73,14 @@ export default function SkillsPage() {
     <PageLayout>
       <div className="space-y-6">
         {/* Header */}
-        <div className="bg-white/30 backdrop-blur-xl rounded-3xl border border-white/40 shadow-xl p-6 md:p-8">
+        <div className="bg-white/30 dark:bg-white/5 backdrop-blur-xl rounded-3xl border border-white/40 dark:border-white/10 shadow-xl p-6 md:p-8">
           <div className="flex items-center gap-3 mb-4">
             <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center">
               <Sparkles className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl md:text-3xl font-bold text-gray-800">Technical Skills</h1>
-              <p className="text-gray-600">These bars do not present my actual knowledge but indeed how confident and how compatible I can implement these skills in an actual project.</p>
+              <h1 className="text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-100">Technical Skills</h1>
+              <p className="text-gray-600 dark:text-gray-400">These bars do not present my actual knowledge but indeed how confident and how compatible I can implement these skills in an actual project.</p>
             </div>
           </div>
         </div>

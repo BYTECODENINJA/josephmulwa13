@@ -43,6 +43,7 @@ export function SkillsGrid() {
   return (
     <section id="skills" className="bg-white/30 backdrop-blur-xl rounded-3xl border border-white/40 shadow-xl p-6">
       <h2 className="text-xl font-bold text-gray-800 mb-6">Technical Skills</h2>
+        <h4>These bars do not present my actual knowledge but indeed how confident and how compatible I can implement these skills in an actual project.</h4>
 
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
         {skillCategories.map((category) => (
