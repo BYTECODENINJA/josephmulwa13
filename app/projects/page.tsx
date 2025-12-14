@@ -132,7 +132,7 @@ export default function ProjectsPage() {
 
         {/* Other Projects */}
         <div className="bg-white/30 backdrop-blur-xl rounded-3xl border border-white/40 shadow-xl p-6">
-          <h2 className="text-lg font-semibold text-gray-800 mb-4">Other Projects</h2>
+          <h2 className="text-lg font-semibold text-gray-800 mb-4">Ongoing Projects</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {projects
               .filter((p) => !p.featured)
