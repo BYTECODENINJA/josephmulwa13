@@ -8,7 +8,7 @@ const nextConfig = {
   },
   output: 'export',
   basePath: '/josephmulwa13',
-  assetPrefix: '/josephmulwa13/',
+  trailingSlash: true,
 }
 
 export default nextConfig
