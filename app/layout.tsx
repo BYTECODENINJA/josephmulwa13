@@ -5,7 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Fullstack Developer Portfolio | Kenya",
+  title: "JOSEPH MULWA | Kenya",
   description:
     "Fullstack developer specializing in Java, Python, React, Node.js, Docker, and Kubernetes. Based in Kenya.",
   generator: "v0.app",
