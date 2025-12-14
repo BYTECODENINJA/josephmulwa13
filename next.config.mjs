@@ -7,6 +7,7 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
+  basePath: '/josephmulwa13',
 }
 
 export default nextConfig
