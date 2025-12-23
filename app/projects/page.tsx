@@ -9,7 +9,7 @@ const projects = [
     tech: ["React", "Node.js", "MongoDB", "Express"],
     gradient: "from-pink-400 via-rose-400 to-purple-500",
     github: "https://github.com/BYTECODENINJA/ExpenseTracker",
-    live: "https://example.com",
+    live: "https://expensetracker-2bj9mtwg2-josephs-projects-895708a7.vercel.app/dashboard",
     featured: true,
   },
   {
