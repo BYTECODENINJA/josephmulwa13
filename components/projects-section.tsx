@@ -7,7 +7,7 @@ const projects = [
     progress: 90,
     lessons: "Java • Python • JavaScript",
     tasks: "Express • SQL",
-    gradient: "from-pink-400 via-rose-400 to-purple-500",
+    gradient: "from-gray-800 via-emarald-400 to-purple-500",
     image: "/fullstack-development-3d-illustration.jpg",
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     progress: 85,
     lessons: "CI/CD Pipelines",
     tasks: "GitHub Actions",
-    gradient: "from-purple-400 via-violet-400 to-indigo-500",
+    gradient: "from-blue-400 via-green-400 to-gray-800",
     image: "/devops-cloud-infrastructure-3d-illustration.jpg",
   },
   {
