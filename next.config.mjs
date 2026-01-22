@@ -7,7 +7,6 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
-  basePath: '/josephmulwa13',
   trailingSlash: true,
 }
 
