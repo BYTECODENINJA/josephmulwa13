@@ -74,7 +74,7 @@
 
 @theme inline {
   /* Changed font to Quicksand */
-  --font-sans: font-family: "Amarante", serif;
+  --font-sans: "Amarante", serif;
   --font-mono: "Geist Mono", "Geist Mono Fallback";
   --color-background: var(--background);
   --color-foreground: var(--foreground);
