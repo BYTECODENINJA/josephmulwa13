@@ -7,7 +7,7 @@ const projects = [
     description:
       "Full-stack expense tracking application with user authentication,clean and modern UI and real-time updates via WebSockets.",
     tech: ["React", "Node.js", "MongoDB", "Express"],
-    gradient: "from-pink-400 via-rose-400 to-purple-500",
+    gradient: "from-blue-600 via-rose-400 to-green-500",
     github: "https://github.com/BYTECODENINJA/ExpenseTracker",
     live: "https://expensetracker-2bj9mtwg2-josephs-projects-895708a7.vercel.app/dashboard",
     featured: true,
