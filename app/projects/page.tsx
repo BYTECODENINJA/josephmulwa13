@@ -15,11 +15,11 @@ const projects = [
   {
     title: "Portfolio Website",
     description:
-      "A basic portfolio website built with HTML,CSS and Javascript. It features a clean and modern design, a responsive layout, and a fully-functional contact form, skills showcase and it is responsive.",
-    tech: ["HTML", "CSS", "JavaScript"],
+      "A windows based Portfolio website with a clean and modern design. It features a dynamic resume section, a blog section, a contact form etc all represented in windows UI design.",
+    tech: ["Tailwind CSS", "Next.js", "JavaScript", "React"],
     gradient: "from-purple-400 via-violet-400 to-indigo-500",
-    github: "https://bytecodeninja.github.io/JosephMulwa",
-    live: "https://bytecodeninja.github.io/JosephMulwa/",
+    github: "https://github.com/BYTECODENINJA/WindowsPortfolio",
+    live: "https://windows-portfolio-ruby.vercel.app/",
     featured: true,
   },
   {
