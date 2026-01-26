@@ -7,9 +7,9 @@ const projects = [
     description:
       "Full-stack expense tracking application with user authentication,clean and modern UI and real-time updates via WebSockets.",
     tech: ["React", "Node.js", "MongoDB", "Express"],
-    gradient: "from-blue-600 via-rose-400 to-green-500",
-    github: "https://github.com/BYTECODENINJA/ExpenseTracker",
-    live: "https://expensetracker-2bj9mtwg2-josephs-projects-895708a7.vercel.app/dashboard",
+    gradient: "from-blue-600 via-gray-700 to-green-500",
+    github: "https://github.com/BYTECODENINJA/gamingwebsite",
+    live: "https://gaminglandingpage.vercel.app/",
     featured: true,
   },
   {
@@ -38,8 +38,6 @@ const projects = [
       "Automated deployment pipeline with Docker containerization, Kubernetes orchestration, and monitoring dashboards.",
     tech: ["Docker", "Kubernetes", "GitHub Actions", "Python"],
     gradient: "from-amber-400 via-orange-400 to-red-500",
-    github: "https://github.com",
-    live: "https://example.com",
     featured: false,
   },
   {
@@ -47,8 +45,6 @@ const projects = [
     description: "WebSocket-based chat application with message encryption, file sharing, and multi-room support.",
     tech: ["React", "Socket.io", "Node.js", "MongoDB"],
     gradient: "from-emerald-400 via-green-400 to-teal-500",
-    github: "https://github.com",
-    live: "https://example.com",
     featured: false,
   },
   {
@@ -56,8 +52,6 @@ const projects = [
     description: "Complete inventory tracking solution with barcode scanning, reporting, and supplier management.",
     tech: ["Java", "Spring Boot", "MySQL", "React"],
     gradient: "from-blue-400 via-indigo-400 to-purple-500",
-    github: "https://github.com",
-    live: "https://example.com",
     featured: false,
   },
 ]
