@@ -6,7 +6,7 @@ const projects = [
     title: "Gaming Website",
     description:
       "A fully animated landing page for a gaming website with a clean and modern design. It features a dynamic navbar, a smooth scroll animation, a smooth parallax effect, and a fully responsive design.",
-    tech: ["React", "Node.js", "MongoDB", "Express"],
+    tech: ["React", "Javascript", "GSAP"],
     gradient: "from-blue-600 via-gray-700 to-green-500",
     github: "https://github.com/BYTECODENINJA/gamingwebsite",
     live: "https://gaminglandingpage.vercel.app/",
@@ -23,13 +23,13 @@ const projects = [
     featured: true,
   },
   {
-    title: "Productivity app",
+    title: "Expense Tracker",
     description:
-      "A productivity app that helps you stay focused and organize your tasks. It features a clean and modern design with features like Calendar, day schedule, journal, Notebook, goal tracker, habits tracker and a pumodoro timer.",
-    tech: ["React", "Tailwind CSS", "Typescript", "Javascript","Python"],
+      "A modern expense tracking application with a clean and modern design. It features a dynamic sidebar, a smooth scroll animation, and a fully responsive design. Built with React, Tailwind CSS, MongoDB, and Typescript.",
+    tech: ["React", "Tailwind CSS", "Typescript", "MongoDB","Vite"],
     gradient: "from-cyan-400 via-teal-400 to-emerald-500",
-    github: "https://github.com/BYTECODENINJA/neo-focus",
-    live: "https://example.com",
+    github: "https://github.com/BYTECODENINJA/ExpenseTracker",
+    live: "https://expense-tracker-jrt9.vercel.app",
     featured: true,
   },
   {
