@@ -3,9 +3,9 @@ import { FolderGit2, ExternalLink, Github } from "lucide-react"
 
 const projects = [
   {
-    title: "Expense Tracker",
+    title: "Gaming Website",
     description:
-      "Full-stack expense tracking application with user authentication,clean and modern UI and real-time updates via WebSockets.",
+      "A fully animated landing page for a gaming website with a clean and modern design. It features a dynamic navbar, a smooth scroll animation, a smooth parallax effect, and a fully responsive design.",
     tech: ["React", "Node.js", "MongoDB", "Express"],
     gradient: "from-blue-600 via-gray-700 to-green-500",
     github: "https://github.com/BYTECODENINJA/gamingwebsite",
